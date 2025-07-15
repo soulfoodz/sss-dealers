@@ -1,0 +1,578 @@
+[
+  {
+    "dealer_name": "Atwater Feed",
+    "address": "201 Business Parkway Atwater, CA 95301",
+    "phone": "(209) 358-1840",
+    "lat": 37.3339851,
+    "lng": -120.6011122,
+    "state": "CA"
+  },
+  {
+    "dealer_name": "KB Show Supply (Trailer) Kelly Bianchi",
+    "address": "7430 Lovers Lane Hollister, CA 95023",
+    "phone": "(831) 801-7002",
+    "lat": 36.9531544,
+    "lng": -121.4288679,
+    "state": "CA"
+  },
+  {
+    "dealer_name": "Distributed By Associated Feed",
+    "address": "5213 W Main St, Turlock, CA 95380",
+    "phone": "(800) 540-FEED",
+    "lat": 37.492925,
+    "lng": -120.9079766,
+    "state": "CA"
+  },
+  {
+    "dealer_name": "Small Town Genetics",
+    "address": "2812 N. Hickman Rd Denair, CA 95316",
+    "phone": "(209) 620-4106",
+    "lat": 37.5183206,
+    "lng": -120.7575863,
+    "state": "CA"
+  },
+  {
+    "dealer_name": "Evangelho Seed Co.",
+    "address": "19 1/2 Ave. Lemoore, CA 93245",
+    "phone": "(559) 924-7443",
+    "lat": 36.3134014,
+    "lng": -119.8091126,
+    "state": "CA"
+  },
+  {
+    "dealer_name": "Inspire Buyer's Group",
+    "address": "31816 CR 16 Kennesburg, CO 80643",
+    "phone": "(720) 383-3006",
+    "lat": 40.1083158,
+    "lng": -104.5199585,
+    "state": "CO"
+  },
+  {
+    "dealer_name": "Bud Adams",
+    "address": "Cumming, GA 30040",
+    "phone": "(352) 812-7722",
+    "lat": 34.2073196,
+    "lng": -84.14019259999999,
+    "state": "GA"
+  },
+  {
+    "dealer_name": "Blue Ribbon Show Supply (Trailer) - Jimmy Youngblood",
+    "address": "9416 Lucy Moore Rd. Nicholls, GA 31554",
+    "phone": "(912) 952-5088",
+    "lat": 31.4626021,
+    "lng": -82.58700379999999,
+    "state": "GA"
+  },
+  {
+    "dealer_name": "Southland Power Fence, Feed & Equip",
+    "address": "752 E. 5th Ave. Colbert, GA 30628",
+    "phone": "(706) 788-2498",
+    "lat": 34.0412183,
+    "lng": -83.20006210000001,
+    "state": "GA"
+  },
+  {
+    "dealer_name": "Powers Livestock Supply",
+    "address": "1340 S. 3200 E. Malta, ID 83342",
+    "phone": "(208) 312-1553",
+    "lat": 42.3362101,
+    "lng": -113.166426,
+    "state": "ID"
+  },
+  {
+    "dealer_name": "Rockin' Cross Country Store",
+    "address": "4035 N. Yellowstone HWY Idaho Falls, ID 83401",
+    "phone": "(208) 529-0766",
+    "lat": 43.5326539,
+    "lng": -111.9787465,
+    "state": "ID"
+  },
+  {
+    "dealer_name": "Timmons Feed and Farm Supply (Store)",
+    "address": "407 E. Noble St. Lebanon, IN 46052",
+    "phone": "(317) 626-2380",
+    "lat": 40.0390126,
+    "lng": -86.4645882,
+    "state": "IN"
+  },
+  {
+    "dealer_name": "JAM Genetics - Heather Misiniec",
+    "address": "7421 N. State Rd. 159 Bicknell, IN 47512",
+    "phone": "(812) 890-4075",
+    "lat": 38.7844694,
+    "lng": -87.3107723,
+    "state": "IN"
+  },
+  {
+    "dealer_name": "Allen Feeds Inc. (Store/Trailer)",
+    "address": "607 W. Main St. North Manchester, IN 46962",
+    "phone": "(260) 982-7910",
+    "lat": 41.0306465,
+    "lng": -85.72320769999999,
+    "state": "IN"
+  },
+  {
+    "dealer_name": "Milan Center Feed & Grain",
+    "address": "15402 Doty Rd New Haven, IN 46774",
+    "phone": "(260) 657-5461",
+    "lat": 41.1438307,
+    "lng": -84.9451931,
+    "state": "IN"
+  },
+  {
+    "dealer_name": "Sullivan Supply",
+    "address": "35 Industrial Drive Dunlap, IA 51529",
+    "phone": "(254) 582-7096",
+    "lat": 41.844533,
+    "lng": -95.6097209,
+    "state": "IA"
+  },
+  {
+    "dealer_name": "McKinney Seed",
+    "address": "1203 West St Colo, IA 50056",
+    "phone": "(641) 485-3148",
+    "lat": 42.00659659999999,
+    "lng": -93.3183626,
+    "state": "IA"
+  },
+  {
+    "dealer_name": "Valley Vet Supply",
+    "address": "1118 Pony Express HWY Marysville, KS",
+    "phone": "(785) 562-5106",
+    "lat": 39.84292,
+    "lng": -96.6172216,
+    "state": ""
+  },
+  {
+    "dealer_name": "Oxford Veterinary Clinic",
+    "address": "1623 Highway 30 East Oxford, MS 38655",
+    "phone": "(662) 312-8373",
+    "lat": 34.3860896,
+    "lng": -89.5009038,
+    "state": "MS"
+  },
+  {
+    "dealer_name": "Byram Feed",
+    "address": "13500 E. Whipsaw Rd Sheldon, MO 64784",
+    "phone": "(417) 684-1187",
+    "lat": 37.6886074,
+    "lng": -94.3632864,
+    "state": "MO"
+  },
+  {
+    "dealer_name": "Letterman Feed & Inc.",
+    "address": "739 Honey Locust Ln Niangua, MO 65713",
+    "phone": "(417) 664-0829",
+    "lat": 37.4686146,
+    "lng": -92.8472032,
+    "state": "MO"
+  },
+  {
+    "dealer_name": "Northwest Feed",
+    "address": "11835 Lewis Clark Dr Lolo, MT 59847",
+    "phone": "(406) 880-8293",
+    "lat": 46.7574493,
+    "lng": -114.0793492,
+    "state": "MT"
+  },
+  {
+    "dealer_name": "Western Ranch Supply (Store)",
+    "address": "7305 Entry Way Dr. Billings, MT 59101",
+    "phone": "(406) 252-6692",
+    "lat": 45.7286026,
+    "lng": -108.5990458,
+    "state": "MT"
+  },
+  {
+    "dealer_name": "Western Ranch Supply (Store)",
+    "address": "303 N. 13th Billings, MT 59101",
+    "phone": "(406) 252-6692",
+    "lat": 45.7930838,
+    "lng": -108.4890406,
+    "state": "MT"
+  },
+  {
+    "dealer_name": "Western Ranch Supply (Store)",
+    "address": "400 River Drive North Great Falls, MT 59405",
+    "phone": "(406) 761-2160",
+    "lat": 47.5117109,
+    "lng": -111.3055756,
+    "state": "MT"
+  },
+  {
+    "dealer_name": "Final Drive Show Supply (Store/Trailer)",
+    "address": "1921 8th Rd. Wisner, NE 68791",
+    "phone": "(402) 529-6523",
+    "lat": 42.0066582,
+    "lng": -96.8845422,
+    "state": "NE"
+  },
+  {
+    "dealer_name": "Landmark Mercantile",
+    "address": "12000 Stern Drive Mesquite, NM 88048",
+    "phone": "(573) 635-4173",
+    "lat": 32.174629,
+    "lng": -106.6721468,
+    "state": "NM"
+  },
+  {
+    "dealer_name": "Guadalupe Farm Supply",
+    "address": "2023 Hepler Road Carlsbad, NM 88220",
+    "phone": "(575) 706-2750",
+    "lat": 32.3479091,
+    "lng": -104.1838563,
+    "state": "NM"
+  },
+  {
+    "dealer_name": "Brian Stallings",
+    "address": "541 HWY 158 Elizabeth City, NC 27909",
+    "phone": "(252) 202-6914",
+    "lat": 36.3013286,
+    "lng": -76.2194492,
+    "state": "NC"
+  },
+  {
+    "dealer_name": "Grelton Elevator",
+    "address": "6944 County Road M Grelton, OH 43523",
+    "phone": "(419) 256-6381",
+    "lat": 41.3420571,
+    "lng": -83.9991944,
+    "state": "OH"
+  },
+  {
+    "dealer_name": "Next Level Show Supply",
+    "address": "2116 Prysi Rd NW Sugarcreek, OH 44681",
+    "phone": "(330) 340-7050",
+    "lat": 40.5151319,
+    "lng": -81.59024060000002,
+    "state": "OH"
+  },
+  {
+    "dealer_name": "Highland Livestock Supply",
+    "address": "47060 Hisey Rd. Waterford, OH 44445",
+    "phone": "(330) 457-2033",
+    "lat": 40.8569294,
+    "lng": -80.6120069,
+    "state": "OH"
+  },
+  {
+    "dealer_name": "Mid America Farm & Ranch (Store)",
+    "address": "308 S. Elm Talala, OK 74080",
+    "phone": "(918) 275-8008",
+    "lat": 36.526647,
+    "lng": -95.7023772,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "Grassroots Farm Store",
+    "address": "24993 SH 74 Washington, OK 73093",
+    "phone": "(405) 288-2523",
+    "lat": 35.07304,
+    "lng": -97.4764971,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "56 Feed Company",
+    "address": "218 N. Main Newkirk, OK 74647",
+    "phone": "(580) 362-3306",
+    "lat": 36.8845968,
+    "lng": -97.0532004,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "Outback Labs LLC",
+    "address": "13110 US HWY 77 Lexington, OK 73051",
+    "phone": "(918) 822-7271",
+    "lat": 35.0601138,
+    "lng": -97.3386043,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "Precision Feed Technology - Nicole Scott",
+    "address": "Lawton, OK 73501",
+    "phone": "(402) 560-5023",
+    "lat": 34.5618456,
+    "lng": -98.2431747,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "County Line Supply (Store)",
+    "address": "58649 OK-34, Vici, OK 73859",
+    "phone": "(580) 995-3000",
+    "lat": 36.1643234,
+    "lng": -99.3843077,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "Dutton Farm Supply",
+    "address": "405 SE 4th Street Lindsay, OK 73052",
+    "phone": "(405) 756-7145",
+    "lat": 34.8327323,
+    "lng": -97.5976382,
+    "state": "OK"
+  },
+  {
+    "dealer_name": "Chux Mobile Milling",
+    "address": "724 Graden Street Connellsville, PA 15425",
+    "phone": "(724) 322-4804",
+    "lat": 40.0399134,
+    "lng": -79.5673022,
+    "state": "PA"
+  },
+  {
+    "dealer_name": "Brockman Farms",
+    "address": "5211 N. FM 1486 Montgomery, TX 77356",
+    "phone": "(217) 251-3245",
+    "lat": 30.4406637,
+    "lng": -95.793336,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Lochte Feed & General Store",
+    "address": "509 Longhorn St Fredericksburg, TX 79624",
+    "phone": "(830) 997-2256",
+    "lat": 30.2650578,
+    "lng": -98.8697874,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Circle P Feed & Supply",
+    "address": "1422 FM 2223 Bryan, TX 77808",
+    "phone": "(979) 778-0978",
+    "lat": 30.72085019999999,
+    "lng": -96.3647215,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Champion Livestock Supply",
+    "address": "2118 Cartwright Road Missouri City, TX 77489",
+    "phone": "(281) 797-5886",
+    "lat": 29.5837362,
+    "lng": -95.5352766,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Dillards Feed House (Store)",
+    "address": "201 W. Travis St. Marshall, TX 75670",
+    "phone": "(903) 938-3381",
+    "lat": 32.541485,
+    "lng": -94.368533,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Rio Grande Farm & Ranch Supply",
+    "address": "1521 N. Flores Rio Grande City, TX 78582",
+    "phone": "(956) 605-4112",
+    "lat": 26.3878176,
+    "lng": -98.8076437,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "LaCopa Ranch (Store)",
+    "address": "1296 CR 428 Rockdale, TX 76567",
+    "phone": "(512) 635-0573",
+    "lat": 30.7085293,
+    "lng": -97.1259018,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "All Around Hay & Feed (Store)",
+    "address": "408 Morgan Mill Rd. Stephenville, TX 76401",
+    "phone": "(254) 964-6305",
+    "lat": 32.235322,
+    "lng": -98.1940401,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Blue Ribbon Country Store (Store)",
+    "address": "1701 Northwest Frontage Rd. Beeville, TX 78104",
+    "phone": "(361) 392-3333",
+    "lat": 28.4243317,
+    "lng": -97.7380177,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Producers Cooperative (Store)",
+    "address": "3038 W. IH 10 Seguin, TX 78155",
+    "phone": "(830) 379-1750",
+    "lat": 29.5639612,
+    "lng": -98.0303523,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "St. Hedwig Feed & Supply (Store)",
+    "address": "540 E. FM 1518 S St. Hedwig, TX 78152",
+    "phone": "(210) 667-1346",
+    "lat": 29.4193796,
+    "lng": -98.2317842,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Double L Ranch & Wildlife Feed (Store)",
+    "address": "3122 Memorial Blvd. Kerrville, TX 78028",
+    "phone": "(830) 896-7722",
+    "lat": 30.0169559,
+    "lng": -99.1195674,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "My Feed Store & More (Store)",
+    "address": "17184 FM 3083 Conroe, TX 77302",
+    "phone": "(936) 231-1184",
+    "lat": 30.239056,
+    "lng": -95.3085494,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "HF & C Feed (Store/Trailer)",
+    "address": "7811 82nd St. Lubbock, TX 79424",
+    "phone": "(806) 866-9801",
+    "lat": 33.518953,
+    "lng": -101.9901943,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Ag Mart",
+    "address": "2400 HWY 377 South Brownwood, TX 76801",
+    "phone": "(325) 643-3636",
+    "lat": 31.7037966,
+    "lng": -98.9941876,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Belton Feed",
+    "address": "305 S. 2nd Temple, TX 76501",
+    "phone": "(254) 939-3636",
+    "lat": 31.0930674,
+    "lng": -97.3414662,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Sullivan Supply",
+    "address": "2576 Old Brandon Rd Hillsboro, TX 76645",
+    "phone": "(800) 475-5902",
+    "lat": 31.94521679999999,
+    "lng": -97.1141663,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Henderson Ranch and Feed",
+    "address": "1400 Lone Star St Henderson, TX 75652",
+    "phone": "(903) 722-7077",
+    "lat": 32.1642181,
+    "lng": -94.783858,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Miller Hay and Feed",
+    "address": "14932 N. Interstate HWY 35 Elm Mott, TX 76640",
+    "phone": "(254) 829-2055",
+    "lat": 31.7012255,
+    "lng": -97.0998452,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Ark Country Store",
+    "address": "209 S. HWY 77 Waxahachie, TX 75165",
+    "phone": "(972) 937-8860",
+    "lat": 32.3780988,
+    "lng": -96.8521503,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Big Country Ag and Wildlife",
+    "address": "907 W. Broadway Sweetwater, TX 79556",
+    "phone": "(325) 725-7012",
+    "lat": 32.4649698,
+    "lng": -100.4185998,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "H F & C",
+    "address": "10410 IH 27 Amarillo, TX 79119",
+    "phone": "(806) 433-3088",
+    "lat": 35.1001034,
+    "lng": -101.9136783,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Martin Farm & Ranch Supply Inc.",
+    "address": "215 E. Monte Edinburg, TX 78541",
+    "phone": "(956) 605-1325",
+    "lat": 26.3372604,
+    "lng": -98.1537482,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "The Show Barn",
+    "address": "2517 HWY 2461 Eastland, TX 76448",
+    "phone": "(254) 647-3595",
+    "lat": 32.3736769,
+    "lng": -98.6867091,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Three Rivers Farm & Ranch",
+    "address": "303 N. Graham Three Rivers, TX 78071",
+    "phone": "(861) 786-3242",
+    "lat": 28.4635315,
+    "lng": -98.184312,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Double H Feed",
+    "address": "504 Early Blvd Early, TX 76802",
+    "phone": "(325) 998-0680",
+    "lat": 31.7381554,
+    "lng": -98.9571775,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Cordell Farm & Ranch",
+    "address": "701 E. Mulberry Street Kaufman, TX 75142",
+    "phone": "(972) 932-2164",
+    "lat": 32.5893124,
+    "lng": -96.3038762,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Jupe Mills Feed",
+    "address": "14096 Bandera Rd Helotes, TX 78023",
+    "phone": "(210) 695-3551",
+    "lat": 29.5739265,
+    "lng": -98.6873939,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Big Country Farm Center (Store)",
+    "address": "1800 17th St NE Paris, TX 75460",
+    "phone": "(903) 785-8372",
+    "lat": 33.6778197,
+    "lng": -95.5379182,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Producers Coop - BRYAN",
+    "address": "1800 N. Texas Ave. Bryan, TX 77803",
+    "phone": "(979) 778-6000",
+    "lat": 30.6904252,
+    "lng": -96.3754664,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Morris Show Supply",
+    "address": "8930 US HWY 287 Corsicana, TX 75109",
+    "phone": "(903) 654-0742",
+    "lat": 32.0087657,
+    "lng": -96.2825885,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Angelo Pellets",
+    "address": "1111 N. Bell St. San Angelo, TX 76903",
+    "phone": "(325) 655-5251",
+    "lat": 31.4808469,
+    "lng": -100.4139259,
+    "state": "TX"
+  }
+]
