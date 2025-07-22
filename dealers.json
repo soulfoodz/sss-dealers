@@ -574,5 +574,29 @@
     "lat": 31.4808469,
     "lng": -100.4139259,
     "state": "TX"
+  },
+  {
+    "dealer_name": "Y-Bell Ranch Supply",
+    "address": "32450 IH 10 West Boerne, TX 78006",
+    "phone": "(830) 249-2656",
+    "lat": 29.7623624,
+    "lng": -98.7134802,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "Knuckleheads Hardware",
+    "address": "1084 West, W Hwy 79, Franklin, TX 77856",
+    "phone": "(979) 828-5177",
+    "lat": 31.0177213,
+    "lng": -96.5016262,
+    "state": "TX"
+  },
+  {
+    "dealer_name": "KM’s Feed Store",
+    "address": "304 Eby Rd, Shiloh, OH 44878",
+    "phone": "(979) 828-5177",
+    "lat": 40.8726605,
+    "lng": -82.5065245,
+    "state": "OH"
   }
 ]
